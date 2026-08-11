@@ -1,0 +1,9 @@
+Tarefas para essa aquipe fazer.
+
+Dev: João e Maria.
+
+Cadastro de Farmacias por Usuários:
+
+Get: verificar se o cadastro foi criado com sucesso ou não
+
+Get: Informações do cadastro completo
