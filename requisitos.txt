@@ -1,0 +1,5 @@
+1-Cada CNPJ deve estar ativo para cadastro.
+2-No plano free, pode achar somente 2 parceiros.
+3-Avaliação é muito importante para parcerias
+4-Metodos de pagamentos dentro do sistema
+5-Pagar taxas libera funções extras.
