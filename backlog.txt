@@ -1,0 +1,9 @@
+1- Criar Tela Login
+
+2- Criar Tela de cadastro de Farmacias
+
+3- Criar Tela de cadastro de intens
+
+4- Criar Tela de busca de parceiros
+
+5- Criar Tela de Avaliação
